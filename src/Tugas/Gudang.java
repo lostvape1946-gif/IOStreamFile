@@ -1,4 +1,4 @@
-package TugasAkhir;
+package Tugas;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

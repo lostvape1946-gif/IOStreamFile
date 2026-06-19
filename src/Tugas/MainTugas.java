@@ -1,4 +1,6 @@
-package TugasAkhir;
+// Nama: Arief Rahman
+// NPM: 2410010631
+package Tugas;
 
 public class MainTugas {
     public static void main(String[] args) {
